@@ -1,7 +1,3 @@
 # Act2-1071
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+![image](https://github.com/user-attachments/assets/bf6cb0e8-d644-4b85-8a77-0bef07635326)
